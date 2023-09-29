@@ -1,1 +1,2 @@
-Just make a new file and pasta all over it.
+# Just add a new file and pasta all over it.
+:)
